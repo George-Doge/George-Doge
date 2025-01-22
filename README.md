@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @George-Doge
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python, C/C++ and computers!
 - 📫 How to reach me - write me a comment on this readme, then we can figure something out
 
 <!---
